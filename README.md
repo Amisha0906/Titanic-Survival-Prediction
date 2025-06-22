@@ -7,7 +7,7 @@ This is a classic binary classification problem and part of the Kaggle Titanic C
 
 ## 📁 Dataset
 
-Source: [Kaggle Titanic: Machine Learning from Disaster]([url](https://www.kaggle.com/competitions/titanic))
+Source: [Kaggle Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
 
 train.csv — training data with survival outcomes
 
